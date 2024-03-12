@@ -5,3 +5,4 @@ Hoş geldiniz! PHP ile geliştirilmiş bu kontrol panelli web sitesi, genel ama�
 ## İletişim
 
 - **E-posta:** [mehmet@muzik.red](mailto:mehmet@muzik.red)
+- **Discord:** [discord.gg/muzik](https://discord.gg/muzik)
